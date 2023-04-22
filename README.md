@@ -10,7 +10,7 @@ To evaluate the proposed method, the magnetic resonance images dataset has been 
 
 ## Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
-1) Please cite the following papers:
+1) Please cite the following paper:
 
 [1] A. G. Oskouei, N. Abdolmaleki, and K. Shirini, "SFQC: Superpixel-based Fast Quantum Clustering for Brain MRI Segmentation," (Submitted).
 
