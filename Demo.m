@@ -1,7 +1,7 @@
 %This demo shows how to call the weighted fuzzy C-means algorithm described in the paper:
 %A.Golzari oskouei, N.Abdolmaleki and K.Shirini, "SFQC: Superpixel-based Fast Quantum Clustering
 %for Brain MRI Segmentation" 2023.
-%For the demonstration, the 13 MRI images of the above paper is used.
+%For the demonstration, the 17 MRI images of the above paper is used.
 %Courtesy of A.Golzari Oskouei
 
 clear ;close all;clc;
