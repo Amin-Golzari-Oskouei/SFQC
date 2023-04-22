@@ -14,6 +14,6 @@ To evaluate the proposed method, the magnetic resonance images dataset has been 
 
 [1] A. G. Oskouei, N. Abdolmaleki, and K. Shirini, "SFQC: Superpixel-based Fast Quantum Clustering for Brain MRI Segmentation," (Submitted).
 
-2) Please do not distribute the database or source codes to others without the authorization from Dr. Amin Golzari (Corresponding author).
+2) Please do not distribute the database or source codes to others without the authorization from Dr. Amin Golzari Oskouei (Corresponding author).
 
 Authors’ Emails: a.golzari[at]tabrizu.ac.ir (A. Golzari Oskouei).
